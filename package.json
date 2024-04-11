@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "kehua_lerna",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
