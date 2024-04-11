@@ -1,8 +1,8 @@
 // 整个包的入口
 // 统一导出
 // 导出颜色选择器组件
-import Button from './kehuaButton/index'
-import Form from './kehuaForm/index'
+import Button from './packages/kehuaButton/index'
+import Form from './packages/kehuaForm/index'
  
 const components = [
   Button,
