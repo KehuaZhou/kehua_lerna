@@ -21,5 +21,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 }
 // 导出install方法
 export default {
-  install
+  install,
+  Button,
+  Form
 }
