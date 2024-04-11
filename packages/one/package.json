@@ -1,0 +1,26 @@
+{
+  "name": "kehua-one",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhoukehua <983534556@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/one.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/one.test.js"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KehuaZhou/kehua_lerna"
+  }
+}
